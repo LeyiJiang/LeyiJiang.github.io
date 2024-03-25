@@ -1,4 +1,5 @@
 http://example.com/2024/03/25/MarkText%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/
+http://example.com/2024/03/25/MarkText%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/
 http://example.com/2023/11/02/MarkText%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/
 http://example.com/2023/10/30/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A21-0/
 http://example.com/2023/10/21/hello-world/

@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-30T08:56:10.623Z</updated>
+  <updated>2024-03-25T02:38:35.990Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2024/03/25/MarkText%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>http://example.com/2024/03/25/MarkText%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+    <published>2024-03-25T02:34:48.866Z</published>
+    <updated>2024-03-25T02:38:35.990Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="MarkText常用快捷键"><a href="#MarkText常用快捷键" class="headerlink" title="MarkText常用快捷键"></a>MarkText常用快捷键</h1><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2><p>输入#＋空格，表示一级标题，输入n个#+空格表示n级标题。</p><p>不能输入#+enter，不然就会空出一行大标题</p><h2 id="2-字体"><a href="#2-字体" class="headerlink" title="2.字体"></a>2.字体</h2><p>输入ctrl+B是加粗  <strong>加粗</strong></p><p>输入ctrl+I是斜体  <em>斜体</em></p><p>输入ctrl+D是删除线 <del>删除线</del></p><p>输入ctrl+shift+H是高亮 <mark>高亮</mark></p><h2 id="3-引用"><a href="#3-引用" class="headerlink" title="3.引用"></a>3.引用</h2><p>输入ctrl+alt+Q是引用 but我莫名打开了啥快速助手，我也不知道</p><h2 id="4-插入图片"><a href="#4-插入图片" class="headerlink" title="4.插入图片"></a>4.插入图片</h2><p>输入ctrl+alt+l是导入图片，得写上地址<br><a href="https://cn.bing.com/images/search?view=detailV2&ccid=nVJaWCMM&id=5D45F2C4B14B6986A3FE559461C1545074D465D0&thid=OIP.nVJaWCMMQjo-F6Mlyl2htQHaNK&mediaurl=https://pic2.zhimg.com/50/v2-6facaf72983471b203f4daf7771a1ef3_720w.jpg?source=1940ef5c&exph=1280&expw=720&q=%E5%BC%A0%E8%8B%A5%E6%98%80&simid=607988948301017587&FORM=IRPRST&ck=AD2B449EF96B9FBC37510FA8386CFFF7&selectedIndex=1&itb=0&ajaxhist=0&ajaxserp=0">张若昀</a></p><h2 id="5-超链接"><a href="#5-超链接" class="headerlink" title="5.超链接"></a>5.超链接</h2><p>输入ctrl+l是实现超链接</p><p><a href="https://blog.csdn.net/weixin_51043896/article/details/122482224">MarkText常用快捷键_marktext快捷键-CSDN博客</a></p><h2 id="6-列表"><a href="#6-列表" class="headerlink" title="6.列表"></a>6.列表</h2><p>输入序号1+.+空格或者ctrl+G，即为列表</p><ol><li><p>jly真聪明</p></li><li><p>jly宇宙第一帅</p></li></ol><h2 id="7-表格"><a href="#7-表格" class="headerlink" title="7.表格"></a>7.表格</h2><p>输入ctrl+shift+t是输入表格，然后选择几行几列。</p><table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><h2 id="8-代码"><a href="#8-代码" class="headerlink" title="8.代码"></a>8.代码</h2><p>输入&#96;&#96;&#96;，在输入语言即可进行代码编写。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> pandas</span><br></pre></td></tr></table></figure><p>今天就随手写到这里吧，以后要补充再补充。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;MarkText常用快捷键&quot;&gt;&lt;a href=&quot;#MarkText常用快捷键&quot; class=&quot;headerlink&quot; title=&quot;MarkText常用快捷键&quot;&gt;&lt;/a&gt;MarkText常用快捷键&lt;/h1&gt;&lt;h2 id=&quot;1-标题&quot;&gt;&lt;a href=&quot;#1-标题&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MarkText的基本操作</title>
+    <link href="http://example.com/2023/11/02/MarkText%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/"/>
+    <id>http://example.com/2023/11/02/MarkText%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</id>
+    <published>2023-11-02T03:06:52.000Z</published>
+    <updated>2023-11-02T03:27:06.121Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-标题使用"><a href="#1-标题使用" class="headerlink" title="1.标题使用"></a>1.标题使用</h1><p>用#表示标题，几个#就是几级标题。打完#加个空格即可。但是不要使用enter键，不然会被转义。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;1-标题使用&quot;&gt;&lt;a href=&quot;#1-标题使用&quot; class=&quot;headerlink&quot; title=&quot;1.标题使用&quot;&gt;&lt;/a&gt;1.标题使用&lt;/h1&gt;&lt;p&gt;用#表示标题，几个#就是几级标题。打完#加个空格即可。但是不要使用enter键，不然会被转义。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>如何搭建博客1.0</title>

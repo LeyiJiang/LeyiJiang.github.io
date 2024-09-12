@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-03-25T03:13:29.070Z</updated>
+  <updated>2024-06-13T11:34:28.928Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>轮转数组</title>
+    <link href="http://example.com/2024/06/13/%E8%BD%AE%E8%BD%AC%E6%95%B0%E7%BB%84/"/>
+    <id>http://example.com/2024/06/13/%E8%BD%AE%E8%BD%AC%E6%95%B0%E7%BB%84/</id>
+    <published>2024-06-13T08:52:24.000Z</published>
+    <updated>2024-06-13T11:34:28.928Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Leetcode刷题1-轮转数组"><a href="#Leetcode刷题1-轮转数组" class="headerlink" title="Leetcode刷题1-轮转数组"></a>Leetcode刷题1-轮转数组</h1><h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><p>给定一个整数数组 <code>nums</code>，将数组中的元素向右轮转 <code>k</code> 个位置，其中 <code>k</code> 是非负数。</p><h4 id="示例1："><a href="#示例1：" class="headerlink" title="示例1："></a>示例1：</h4><p><strong>输入:</strong> nums &#x3D; [1,2,3,4,5,6,7], k &#x3D; 3<br><strong>输出:</strong> <code>[5,6,7,1,2,3,4]</code><br><strong>解释:</strong><br>向右轮转 1 步: <code>[7,1,2,3,4,5,6]</code><br>向右轮转 2 步: <code>[6,7,1,2,3,4,5]</code><br>向右轮转 3 步: <code>[5,6,7,1,2,3,4]</code></p><h4 id="示例2："><a href="#示例2：" class="headerlink" title="示例2："></a>示例2：</h4><p>输入：<strong>nums &#x3D; [-1,-100,3,99], k &#x3D; 2<br>输出：</strong>[3,99,-1,-100]<br><strong>解释:</strong><br>向右轮转 1 步: [99,-1,-100,3]<br>向右轮转 2 步: [3,99,-1,-100]</p><h4 id="提示："><a href="#提示：" class="headerlink" title="提示："></a>提示：</h4><ul><li><code>1 &lt;= nums.length &lt;= 105</code></li><li><code>-231 &lt;= nums[i] &lt;= 231 - 1</code></li><li><code>0 &lt;= k &lt;= 105</code></li></ul><h3 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h3><h4 id="1-调换顺序，然后中间截断，最后再次调换顺序"><a href="#1-调换顺序，然后中间截断，最后再次调换顺序" class="headerlink" title="1.调换顺序，然后中间截断，最后再次调换顺序"></a>1.调换顺序，然后中间截断，最后再次调换顺序</h4><p>class Solution:</p><p>    def rotate(self, nums: List[int], k: int) -&gt; None:  </p><p>        k %&#x3D; len(nums)  </p><p>        nums.reverse()  # 反转整个列表  </p><p>        nums[:k] &#x3D; reversed(nums[:k])  # 反转前k个元素  </p><p>        nums[k:] &#x3D; reversed(nums[k:])  # 反转后len(nums)-k个元素</p><h4 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h4><h4 id="3-调换顺序，然后中间截断，最后再次调换顺序"><a href="#3-调换顺序，然后中间截断，最后再次调换顺序" class="headerlink" title="3.调换顺序，然后中间截断，最后再次调换顺序"></a>3.调换顺序，然后中间截断，最后再次调换顺序</h4><p>class Solution:</p><p>    def rotate(self, nums: List[int], k: int) -&gt; None:  </p><p>        k %&#x3D; len(nums)  </p><p>        nums.reverse()  # 反转整个列表  </p><p>        nums[:k] &#x3D; reversed(nums[:k])  # 反转前k个元素  </p><p>        nums[k:] &#x3D; reversed(nums[k:])  # 反转后len(nums)-k个元素</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Leetcode刷题1-轮转数组&quot;&gt;&lt;a href=&quot;#Leetcode刷题1-轮转数组&quot; class=&quot;headerlink&quot; title=&quot;Leetcode刷题1-轮转数组&quot;&gt;&lt;/a&gt;Leetcode刷题1-轮转数组&lt;/h1&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a hr</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>MarkText常用快捷键</title>

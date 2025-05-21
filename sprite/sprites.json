@@ -1,0 +1,37 @@
+{
+  "ditu-dibiao": {
+    "height": 200,
+    "pixelRatio": 1,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "gongyuan": {
+    "height": 200,
+    "pixelRatio": 1,
+    "width": 200,
+    "x": 200,
+    "y": 0
+  },
+  "huochezhanxiao": {
+    "height": 200,
+    "pixelRatio": 1,
+    "width": 200,
+    "x": 0,
+    "y": 200
+  },
+  "jiudian": {
+    "height": 200,
+    "pixelRatio": 1,
+    "width": 200,
+    "x": 200,
+    "y": 200
+  },
+  "zhongcanguan": {
+    "height": 200,
+    "pixelRatio": 1,
+    "width": 200,
+    "x": 400,
+    "y": 0
+  }
+}
